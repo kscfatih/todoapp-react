@@ -1,9 +1,7 @@
 import { useState } from 'react'
-import './App.css'
+import '../assets/App.css'
 
 export default function Table() {
-    const [simpleState, setSimpleState] = useState()
-    
     
     const ogrenciler = [
         {
